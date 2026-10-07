@@ -1,1 +1,2 @@
-MCA stands for Master of Computer Applications. It is a postgraduate degree focused on computer applications, software development, programming, databases, networking, and related technologies.
+MCA stands for Master of Computer Applications. It is a postgraduate degree focused on computer applications, software development, programming, databases, networking, and related technologies. created in main
+update in branch
